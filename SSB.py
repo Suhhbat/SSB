@@ -23,4 +23,6 @@ elif bit == '32bit':
         os.system('curl -L https://github.com/SSB-143/executables/blob/main/Sarfraz32.cpython-311.so?raw=true -o Sarfraz32.so') 
         import Sarfraz32
     else:
-        import Sarfraz32
+        import Sarfraz32 
+        
+46HCRAADB3472704151GFREP75191410314413SSB
